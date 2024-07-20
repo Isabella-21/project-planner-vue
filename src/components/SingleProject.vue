@@ -11,11 +11,11 @@
                 <span class="material-symbols-outlined">edit</span>
                 </router-link>
 
-                <span class="material-symbols-outlined">check_circle</span @click="completeProject">
+                <span class="material-symbols-outlined" @click="completeProject">check_circle</span>
             </div>
         </div>
             <p v-if="showDetail">{{project.detail}}</p>
-            {{project.complete}}
+            <!-- {{project.complete}} -->
     </div>
 </template> 
 

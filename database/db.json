@@ -2,9 +2,9 @@
   "projects": [
     {
       "id": "1",
-      "title": "title 1 new",
-      "detail": "detail 1 new",
-      "complete": false
+      "title": "title 1",
+      "detail": "detail 1 ",
+      "complete": true
     },
     {
       "id": "2",
@@ -16,6 +16,12 @@
       "id": "d562",
       "title": "abcd ",
       "detail": "efg",
+      "complete": false
+    },
+    {
+      "id": "9e6f",
+      "title": "ICT teacher",
+      "detail": "Teaching students ICT",
       "complete": false
     }
   ]
